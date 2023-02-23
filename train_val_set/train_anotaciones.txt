@@ -1,1 +1,8 @@
 train_val_set/train/morning_10620_100.png	AD054JI
+train_val_set/train/img1.jpeg	LD0488GX
+train_val_set/train/img3.jpeg	LD8510FY
+train_val_set/train/img4.png	LDA0000
+train_val_set/train/img5.jpeg	LDF6285
+train_val_set/train/img6.png	LD1200AA
+train_val_set/train/img7.jpeg	LD1799DX
+train_val_set/train/img8.jpeg	LD7950EA
